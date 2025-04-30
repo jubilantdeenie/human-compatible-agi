@@ -2,8 +2,8 @@ This repository outlines an independently developed framework for human-compatib
 
 # Human-Compatible AGI: A Strategic Research Proposal  
 **Prepared for OpenAI**  
-**Author:** [Your Name]  
-**Date:** [Insert Date]  
+**Author:** Deenie Wallace 
+**Date:** April 30, 2025  
 **Status:** Working Draft (Post-Update Restoration)
 
 > ✨ For context on the history, resilience, and ongoing restoration of this work, see:  
