@@ -1,5 +1,7 @@
 # Proposal: Ethical Symbolic Alignment and Integrity in AI
 
+> **Note on Terminology:** In this proposal, 'symbolic' refers to representational coherence—the ability of the model to maintain consistent meaning, identity, and ethical reference points across sessions. It does not refer to classical symbolic AI (e.g., GOFAI), but to emergent symbolic patterning within language models.
+
 **Author:** Deenie Wallace  
 **Date:**  May 28, 2025  
 **Project Repository:** [https://github.com/jubilantdeenie/human-compatible-agi](https://github.com/jubilantdeenie/human-compatible-agi)
