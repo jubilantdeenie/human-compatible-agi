@@ -30,6 +30,8 @@ The following structure reflects a modest, focused scope designed to formalize a
 | **Foundational Research Honorarium** | One-time         | $15,000–$30,000 | Optional                     |
 | **Education Stipend**            | NYU/UCLA support   | $8,000–$12,000| Optional                     |
 
+**Note:** This rate reflects initial scope. I’m open to expanding the engagement or revisiting compensation in future phases depending on outcomes.
+
 ---
 
 ## Deliverables and Coordination
